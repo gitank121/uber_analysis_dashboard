@@ -65,4 +65,4 @@ The goal was to uncover **customer behavior, revenue patterns, and driver perfor
 ---
 
 ## 📬 Contact
-**Your Name** – [LinkedIn](your-linkedin-url) | [Email](mailto:your-email@example.com)  
+**Gitank** – [LinkedIn](https://www.linkedin.com/in/gitank-arora/) | [Email](gitankarora@gmail.com)  
