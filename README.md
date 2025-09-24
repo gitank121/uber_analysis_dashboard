@@ -38,6 +38,14 @@ The goal was to uncover **customer behavior, revenue patterns, and driver perfor
 ---
 
 ## 📸 Dashboard Preview
+<img width="1293" height="722" alt="Overview" src="https://github.com/user-attachments/assets/d3601a39-d08c-40c3-85ec-7a0b4b929588" />
+
+
+<img width="1296" height="720" alt="Customer_Insights" src="https://github.com/user-attachments/assets/3de94c30-eae9-4789-8228-631459b795d5" />
+<img width="1292" height="720" alt="Driver_Performance" src="https://github.com/user-attachments/assets/74c4a6fb-5e06-4811-9789-be6779d46f69" />
+
+<img width="1298" height="717" alt="Revenue_Analysis" src="https://github.com/user-attachments/assets/37cead2e-2311-4f2c-a70e-86af4e915d31" />
+
 <img width="1297" height="721" alt="Screenshot 2025-09-24 232559" src="https://github.com/user-attachments/assets/41422bfb-b643-4697-8fd4-df9a2e9eb924" />
 
 ---
